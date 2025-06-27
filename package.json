@@ -1,7 +1,7 @@
 {
   "name": "gr-portfolio",
   "version": "1.0.0",
-  "homepage": ""https://Gokularam12.github.io/GR-portfolio"",
+  "homepage": "https://Gokularam12.github.io/GR-portfolio",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
